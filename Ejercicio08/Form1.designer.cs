@@ -35,9 +35,9 @@
             // 
             // bSorteo
             // 
-            this.bSorteo.Location = new System.Drawing.Point(27, 41);
+            this.bSorteo.Location = new System.Drawing.Point(12, 12);
             this.bSorteo.Name = "bSorteo";
-            this.bSorteo.Size = new System.Drawing.Size(178, 40);
+            this.bSorteo.Size = new System.Drawing.Size(178, 107);
             this.bSorteo.TabIndex = 0;
             this.bSorteo.Text = "Realizar Sorteo";
             this.bSorteo.UseVisualStyleBackColor = true;
@@ -55,9 +55,9 @@
             // 
             // bResultado
             // 
-            this.bResultado.Location = new System.Drawing.Point(27, 185);
+            this.bResultado.Location = new System.Drawing.Point(12, 148);
             this.bResultado.Name = "bResultado";
-            this.bResultado.Size = new System.Drawing.Size(176, 46);
+            this.bResultado.Size = new System.Drawing.Size(198, 118);
             this.bResultado.TabIndex = 2;
             this.bResultado.Text = "Resultado";
             this.bResultado.UseVisualStyleBackColor = true;

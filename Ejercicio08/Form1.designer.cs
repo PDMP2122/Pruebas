@@ -45,7 +45,7 @@
             // 
             // bJugar
             // 
-            this.bJugar.Location = new System.Drawing.Point(176, 115);
+            this.bJugar.Location = new System.Drawing.Point(182, 12);
             this.bJugar.Name = "bJugar";
             this.bJugar.Size = new System.Drawing.Size(177, 43);
             this.bJugar.TabIndex = 1;
@@ -55,7 +55,7 @@
             // 
             // bResultado
             // 
-            this.bResultado.Location = new System.Drawing.Point(12, 148);
+            this.bResultado.Location = new System.Drawing.Point(172, 73);
             this.bResultado.Name = "bResultado";
             this.bResultado.Size = new System.Drawing.Size(198, 118);
             this.bResultado.TabIndex = 2;

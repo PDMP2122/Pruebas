@@ -45,7 +45,7 @@
             // 
             // bJugar
             // 
-            this.bJugar.Location = new System.Drawing.Point(61, 96);
+            this.bJugar.Location = new System.Drawing.Point(72, 162);
             this.bJugar.Name = "bJugar";
             this.bJugar.Size = new System.Drawing.Size(309, 142);
             this.bJugar.TabIndex = 1;
@@ -55,9 +55,9 @@
             // 
             // bResultado
             // 
-            this.bResultado.Location = new System.Drawing.Point(183, 187);
+            this.bResultado.Location = new System.Drawing.Point(333, 12);
             this.bResultado.Name = "bResultado";
-            this.bResultado.Size = new System.Drawing.Size(198, 118);
+            this.bResultado.Size = new System.Drawing.Size(48, 28);
             this.bResultado.TabIndex = 2;
             this.bResultado.Text = "Resultado";
             this.bResultado.UseVisualStyleBackColor = true;

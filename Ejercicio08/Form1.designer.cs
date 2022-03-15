@@ -55,7 +55,7 @@
             // 
             // bResultado
             // 
-            this.bResultado.Location = new System.Drawing.Point(41, 237);
+            this.bResultado.Location = new System.Drawing.Point(24, 12);
             this.bResultado.Name = "bResultado";
             this.bResultado.Size = new System.Drawing.Size(329, 20);
             this.bResultado.TabIndex = 2;

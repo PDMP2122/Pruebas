@@ -35,9 +35,9 @@
             // 
             // bSorteo
             // 
-            this.bSorteo.Location = new System.Drawing.Point(-1, 117);
+            this.bSorteo.Location = new System.Drawing.Point(12, 62);
             this.bSorteo.Name = "bSorteo";
-            this.bSorteo.Size = new System.Drawing.Size(178, 107);
+            this.bSorteo.Size = new System.Drawing.Size(341, 210);
             this.bSorteo.TabIndex = 0;
             this.bSorteo.Text = "Realizar Sorteo";
             this.bSorteo.UseVisualStyleBackColor = true;
@@ -45,9 +45,9 @@
             // 
             // bJugar
             // 
-            this.bJugar.Location = new System.Drawing.Point(144, 99);
+            this.bJugar.Location = new System.Drawing.Point(72, -2);
             this.bJugar.Name = "bJugar";
-            this.bJugar.Size = new System.Drawing.Size(177, 43);
+            this.bJugar.Size = new System.Drawing.Size(309, 142);
             this.bJugar.TabIndex = 1;
             this.bJugar.Text = "Introducir números a jugar";
             this.bJugar.UseVisualStyleBackColor = true;
@@ -55,7 +55,7 @@
             // 
             // bResultado
             // 
-            this.bResultado.Location = new System.Drawing.Point(132, 179);
+            this.bResultado.Location = new System.Drawing.Point(183, 187);
             this.bResultado.Name = "bResultado";
             this.bResultado.Size = new System.Drawing.Size(198, 118);
             this.bResultado.TabIndex = 2;
